@@ -5,10 +5,15 @@ We propose an assessment system by which the solar energy production and demand 
 
 Our Study based on the foundation of our previous study which published on the Journal of Clean Production -- "Towards feasibility of photovoltaic road for urban traffic-solar energy estimation using street view image" https://www.sciencedirect.com/science/article/pii/S0959652619313538?via%3Dihub.
 
-File ‘getBaidu_Images’\n
+
+
+File ‘getBaidu_Images’ 
+
 Provide the method to get panorama street images and data examples.
 Environment: python 3.6
 
-File 'ImageProcessing'\n
+
+File 'ImageProcessing'  
+
 Provide the methods about image processing including scene parsing and image stitching.
 The scene parsing methods is based on Semantic Segmentation on MIT ADE20K dataset in PyTorch: https://github.com/CSAILVision/semantic-segmentation-pytorch.
